@@ -6,5 +6,5 @@
 - 😄 Pronouns: she/her
 
 
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lacerdana&show_icons=true&theme=omni)
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lacerdana&show_icons=true&theme=cobalt)
 
